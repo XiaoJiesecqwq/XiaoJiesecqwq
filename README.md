@@ -26,7 +26,6 @@ Here are some ideas to get you started:
 
   <img alt="python" src="https://img.shields.io/badge/-python-B7178C?style=flat-square&logo=python&logoColor=white" /> 
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="NestJs" src="https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="nginx" src="https://img.shields.io/badge/-nginx-50B727?style=flat-square&logo=nginx&logoColor=white" />
   <img alt="Java" src="https://img.shields.io/badge/-Java-F9A03C?style=flat-square&logo=OpenJDK&logoColor=white" />
