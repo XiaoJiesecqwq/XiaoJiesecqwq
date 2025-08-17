@@ -5,40 +5,32 @@
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/jasonkayzk/jasonkayzk@master/hello-world.gif" width="30%">
 </p>
+## 👤 关于我
 
-[![](https://img.shields.io/badge/Windows-10-2376bc?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/get-windows-10)
-[![](https://img.shields.io/badge/Linux-Ubuntu-2376bc?style=flat-square&logo=ubuntu&logoColor=ffffff)](https://ubuntu.com/)
-[![](https://img.shields.io/badge/Linux-Centos-2376bc?style=flat-square&logo=centos&logoColor=ffffff)](https://www.centos.org/)
-[![](https://img.shields.io/badge/MacOS-Monterey-2376bc?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/)
-[![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff)](https://code.visualstudio.com/)
-[![](https://img.shields.io/badge/Intellij-Idea-blue?style=flat-square&logo=intellijidea&logoColor=ffffff)](https://www.jetbrains.com/idea/)
-[![](https://img.shields.io/badge/IDE-Goland-blue?style=flat-square&logo=jetbrains&logoColor=ffffff)](https://www.jetbrains.com/go/)
-[![](https://img.shields.io/badge/IDE-PyCharm-blue?style=flat-square&logo=jetbrains&logoColor=ffffff)](https://www.jetbrains.com/pycharm/)
-[![](https://img.shields.io/badge/IDE-Clion-blue?style=flat-square&logo=jetbrains&logoColor=ffffff)](https://www.jetbrains.com/clion/)
-[![](https://img.shields.io/badge/IDE-WebStorm-blue?style=flat-square&logo=jetbrains&logoColor=ffffff)](https://www.jetbrains.com/webstorm/)
-[![](https://img.shields.io/badge/Andriod-Studio-blue?style=flat-square&logo=android&logoColor=ffffff)](https://developer.android.com/studio/)
-[![](https://img.shields.io/badge/Linux-Vim-blue?style=flat-square&logo=vim&logoColor=ffffff)](https://www.vim.org/)
+- 🌱 我正在学习和探索 **人工智能、机器学习、深度学习** 的广阔世界。
+- 💼 目前专注于 **Python** 开发，对 **Web 开发、数据科学和自动化脚本** 充满热情。
+- 📚 始终相信 **持续学习** 是进步的关键，热衷于研究新技术和开源项目。
+- 🎯 我的目标是构建实用、优雅且高效的软件解决方案。
 
-<h3 >我的技术栈 </h3>
+## 🛠️ 技术栈
 
-<p>
+- **编程语言:** Python, JavaScript, SQL
+- **前端:** HTML, CSS, React
+- **后端:** Node.js, Django, Flask
+- **数据库:** MySQL, MongoDB, PostgreSQL
+- **工具:** Git, Docker, VS Code
+- **云平台:** AWS, Azure, Google Cloud
 
-  <img alt="python" src="https://img.shields.io/badge/-python-B7178C?style=flat-square&logo=python&logoColor=white" />   
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="nginx" src="https://img.shields.io/badge/-nginx-50B727?style=flat-square&logo=nginx&logoColor=white" />
-  <img alt="Java" src="https://img.shields.io/badge/-Java-F9A03C?style=flat-square&logo=OpenJDK&logoColor=white" />
-  <img alt="PHP" src="https://img.shields.io/badge/-PHP-461f76?style=flat-square&logo=PHP&logoColor=white" />
-  <img alt="VMWare" src="https://img.shields.io/badge/-VMWare-d32bdd?style=flat-square&logo=PHP&logoColor=white" />
-  <img alt="Linux" src="https://img.shields.io/badge/-Linux-2b40dd?style=flat-square&logo=linux&logoColor=white" />
-  <img alt="Centos" src="https://img.shields.io/badge/-Centos-501554?style=flat-square&logo=centos&logoColor=white" />
-  <img alt="Debian" src="https://img.shields.io/badge/-Debian-43853d?style=flat-square&logo=Debian&logoColor=white" />
-  <img alt="Kali" src="https://img.shields.io/badge/-kali-150808?style=flat-square&logo=kalilinux&logoColor=white" />
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-  <img alt="MySql" src="https://img.shields.io/badge/-MySql-EC4A3F?style=flat-square&logo=MySql&logoColor=white" />  
+## 📈 最近动态
 
-</p>
+- 🔭 正在研究 **大型语言模型 (LLM)** 的应用与优化。
+- 🌱 学习 **Prompt Engineering** 和 **AI Agent** 构建。
+- ⚡ 优化个人项目性能，提升用户体验。
+- 📊 探索数据可视化库（如 D3.js, Plotly）。
 
-### 🎁 项目
+## 📊 GitHub 统计
 
-<p>还什么都不会做。。。</P>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+
+> *“代码改变世界，细节成就完美。”* ✨
