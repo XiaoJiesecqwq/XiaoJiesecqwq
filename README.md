@@ -30,9 +30,4 @@
 - ⚡ 优化个人项目性能，提升用户体验。
 - 📊 探索数据可视化库（如 D3.js, Plotly）。
 
-## 📊 GitHub 统计
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
-
 > *“代码改变世界，细节成就完美。”* ✨
